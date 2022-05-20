@@ -1,0 +1,5 @@
+amphp-hpack (3.1.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1011334).
+
+ -- Katharina Drexel <katharina.drexel@bfh.ch>  Tue, 03 May 2022 10:40:55 +0200
